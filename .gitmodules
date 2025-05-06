@@ -1,5 +1,5 @@
 [submodule "traccar-web"]
 	path = traccar-web
-	url = https://github.com/OceanBytes/OceanTrackTraccar.git
+	url = https://github.com/OceanBytes/OceanTrackWeb.git
 	branch = master
 	ignore = all
